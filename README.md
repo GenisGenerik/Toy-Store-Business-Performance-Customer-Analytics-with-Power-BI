@@ -295,7 +295,7 @@ Menghitung jumlah ID page view yang tidak kosong pada tabel `website_pageviews`.
 
 #### 📈 Executive Overview
 
-![Executive Overview](resource/Hal1.png)
+![Executive Overview](Resource/Hal1.png)
 
 **🔍 Temuan utama**
 
@@ -311,7 +311,7 @@ Tren pendapatan dan pelanggan dapat digunakan untuk memantau perkembangan bisnis
 
 #### 📦 Product Analysis
 
-![Product Analysis](resource/Hal2.png)
+![Product Analysis](Resource/Hal2.png)
 
 **🔍 Temuan utama**
 
@@ -351,7 +351,7 @@ Produk dengan volume penjualan terbesar dapat memiliki nilai refund absolut yang
 
 #### 📊 Customer Analysis
 
-![Customer Analysis](resource/Hal3.png)
+![Customer Analysis](Resource/Hal3.png)
 
 **🔍 Temuan utama**
 
