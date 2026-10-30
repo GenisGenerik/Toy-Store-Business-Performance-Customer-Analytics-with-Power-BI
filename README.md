@@ -2,6 +2,8 @@
 
 Dashboard interaktif Microsoft Power BI untuk mengeksplorasi kinerja penjualan, profitabilitas produk, pengembalian dana (*refund*), serta perilaku pelanggan dan aktivitas pengunjung situs web.
 
+https://github.com/user-attachments/assets/70243936-b13b-4c63-b7b0-2b8d6d0063a6
+
 ## Daftar Isi
 
 - [Tentang Proyek](#tentang-proyek)
